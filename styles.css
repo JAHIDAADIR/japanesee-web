@@ -1,0 +1,72 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color: grey; /*This changes the background colour*/
+    text-align: center; /*This piece of code makes all content center in to the middle*/
+    
+} 
+
+
+
+.top{
+    background-color: orange;
+    height: 500px;
+    width: 100%;
+    
+
+}
+.left{
+    background-color: aquamarine;
+    height: 500px;
+    width: 100%;
+}
+.top1{
+    background-color: rgb(192, 190, 186);
+    height: 150px;
+    width: 100%;
+}
+.topmiddle{
+    background-color: rgba(189, 129, 19, 0.767);
+    height: 50px;
+    width: 100%;
+}
+.main{
+    background-color: rgb(255, 0, 43);
+    height: 500px;
+    width: 100%;
+}
+.extralines{
+    background-color: rgb(190, 138, 41);
+    height: auto;
+    width: 100%;
+}
+.left{
+    background-color: rgb(25, 190, 94);
+    height: auto;
+    width: 30%;
+    float: left;
+}
+.middle{
+    background-color: rgb(230, 159, 19);
+    height: auto;
+    width: 30%;
+    float: left;
+}
+
+.right{
+    background-color: rgb(230, 33, 131);
+    height: 300px;
+    width: 30%;
+    float:left;
+}
+
+.socielmedia{
+    background-color: rgb(199, 193, 182);
+    height: 300px;
+    width: 30%;
+    float:left;
+}
+.socielmedia2{
+    background-color: rgb(77, 172, 33);
+    height: auto;
+    width: 10%;
+    float:left; 
+}
